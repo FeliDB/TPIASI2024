@@ -9,7 +9,7 @@
 Nombre | Legajo |
 --- | --- |
 Agustín Castillo | 15470 |
-Felipe Diaz Bertero | 15326 |
+Felipe Díaz Bertero | 15326 |
 Tadeo Baricco | 15207 |
 Franco Delfino | 15202 |
 Alejo Ponce Maurino | 15028 |
