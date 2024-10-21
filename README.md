@@ -6,13 +6,13 @@
 
 ## Integrantes del Grupo:
 
-Nombre | Legajo |
+Apellido y Nombre| Legajo |
 --- | --- |
-Agustín Castillo | 15470 |
-Felipe Díaz Bertero | 15326 |
-Tadeo Baricco | 15270 |
-Franco Delfino | 15202 |
-Alejo Ponce Maurino | 15028 |
+Castillo Agustín | 15470 |
+Díaz Bertero Felipe| 15326 |
+Baricco Tadeo | 15270 |
+Delfino Franco | 15202 |
+Ponce Maurino Alejo| 15028 |
 
 
 ## Descripción del Caso de Estudio
