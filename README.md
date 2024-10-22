@@ -34,4 +34,7 @@ En caso de que se detecten defectos leves, se emite un informe con resultado con
 
 El vehículo que regresa a re-verificar debe respetar la fecha de vencimiento establecida en el informe que le fue entregado. En caso de obtener más de tres resultados desaprobados deberá abonar nuevamente como su primera vez.
 
-Una vez al mes el gerente envía un reporte al municipio con los vehículos que realizaron la VTV con los siguientes datos: patente, número de oblea, fecha de vencimiento y titular del vehículo.
+Una vez al mes el gerente envía un reporte al municipio con los vehículos que realizaron la VTV con los siguientes datos: patente, número de oblea, fecha de vencimiento y titular del vehículo. 
+
+Modificaciones a futuro:
+
