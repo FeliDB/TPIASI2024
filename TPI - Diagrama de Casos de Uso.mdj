@@ -4571,7 +4571,7 @@
 											"top": 643.5,
 											"width": 153,
 											"height": 13,
-											"text": "12. Registrar mediciones"
+											"text": "11. Registrar mediciones"
 										},
 										{
 											"_type": "LabelView",
@@ -4607,7 +4607,7 @@
 									"font": "Arial;13;0",
 									"left": 482,
 									"top": 636.5,
-									"width": 163.89892578125,
+									"width": 163.181640625,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAGSjOvNNboG8sg="
@@ -5231,7 +5231,7 @@
 											"top": 819.5,
 											"width": 223,
 											"height": 13,
-											"text": "13. Consultar mediciones realizadas"
+											"text": "12. Consultar mediciones realizadas"
 										},
 										{
 											"_type": "LabelView",
@@ -5709,7 +5709,7 @@
 											"top": 907.5,
 											"width": 197,
 											"height": 13,
-											"text": "14. Emitir informe de resultados"
+											"text": "13. Emitir informe de resultados"
 										},
 										{
 											"_type": "LabelView",
@@ -6187,7 +6187,7 @@
 											"top": 979.5,
 											"width": 115,
 											"height": 13,
-											"text": "15. Registrar oblea"
+											"text": "14. Registrar oblea"
 										},
 										{
 											"_type": "LabelView",
@@ -6845,7 +6845,7 @@
 											"top": 1091.5,
 											"width": 243,
 											"height": 13,
-											"text": "16. Registrar nueva linea de inspección"
+											"text": "15. Registrar nueva linea de inspección"
 										},
 										{
 											"_type": "LabelView",
@@ -7055,7 +7055,7 @@
 											"top": 1179.5,
 											"width": 202,
 											"height": 13,
-											"text": "17. Modificar línea de inspección"
+											"text": "16. Modificar línea de inspección"
 										},
 										{
 											"_type": "LabelView",
@@ -7265,7 +7265,7 @@
 											"top": 1251.5,
 											"width": 352,
 											"height": 13,
-											"text": "18. Emitir reporte de inspecciones realizadas"
+											"text": "17. Emitir reporte de inspecciones realizadas"
 										},
 										{
 											"_type": "LabelView",
@@ -8278,7 +8278,7 @@
 											"top": 1330,
 											"width": 228,
 											"height": 13,
-											"text": "Registrar nuevo servicio"
+											"text": "18. Registrar nuevo servicio"
 										},
 										{
 											"_type": "LabelView",
@@ -8749,7 +8749,7 @@
 											"top": 1434,
 											"width": 216,
 											"height": 13,
-											"text": "Registrar nueva seccion"
+											"text": "19. Registrar nueva seccion"
 										},
 										{
 											"_type": "LabelView",
@@ -8959,7 +8959,7 @@
 											"top": 1502.5,
 											"width": 211,
 											"height": 13,
-											"text": "Cancelar servicio"
+											"text": "20. Cancelar servicio"
 										},
 										{
 											"_type": "LabelView",
@@ -10360,7 +10360,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGSjNucgpHyGRI="
 					},
-					"name": "12. Registrar mediciones"
+					"name": "11. Registrar mediciones"
 				},
 				{
 					"_type": "UMLActor",
@@ -10459,7 +10459,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGSjNucgpHyGRI="
 					},
-					"name": "13. Consultar mediciones realizadas"
+					"name": "12. Consultar mediciones realizadas"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -10467,7 +10467,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGSjNucgpHyGRI="
 					},
-					"name": "14. Emitir informe de resultados"
+					"name": "13. Emitir informe de resultados"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -10475,7 +10475,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGSjNucgpHyGRI="
 					},
-					"name": "15. Registrar oblea"
+					"name": "14. Registrar oblea"
 				},
 				{
 					"_type": "UMLActor",
@@ -10655,7 +10655,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGSjNucgpHyGRI="
 					},
-					"name": "16. Registrar nueva linea de inspección"
+					"name": "15. Registrar nueva linea de inspección"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -10663,7 +10663,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGSjNucgpHyGRI="
 					},
-					"name": "17. Modificar línea de inspección"
+					"name": "16. Modificar línea de inspección"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -10671,7 +10671,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGSjNucgpHyGRI="
 					},
-					"name": "18. Emitir reporte de inspecciones realizadas"
+					"name": "17. Emitir reporte de inspecciones realizadas"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -10679,7 +10679,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGSjNucgpHyGRI="
 					},
-					"name": "Registrar nuevo servicio"
+					"name": "18. Registrar nuevo servicio"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -10687,7 +10687,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGSjNucgpHyGRI="
 					},
-					"name": "Registrar nueva seccion"
+					"name": "19. Registrar nueva seccion"
 				},
 				{
 					"_type": "UMLUseCase",
@@ -10695,7 +10695,7 @@
 					"_parent": {
 						"$ref": "AAAAAAGSjNucgpHyGRI="
 					},
-					"name": "Cancelar servicio"
+					"name": "20. Cancelar servicio"
 				}
 			]
 		}
